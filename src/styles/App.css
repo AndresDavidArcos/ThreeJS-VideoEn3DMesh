@@ -1,0 +1,21 @@
+body {
+  background-color: #00599c;
+}
+
+#three-canvas-container {
+  height: 100vh !important;
+}
+
+.label > div{
+  font-family: Helvetica, Arial;
+  position: absolute;
+  bottom: 600px;
+  background: #00000088;
+  color: white;
+  padding: 15px;
+  white-space: nowrap;
+  overflow: hidden;
+  border-radius: 30px;
+  user-select: none;
+}
+
